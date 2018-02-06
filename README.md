@@ -5,4 +5,4 @@
 - this is to see what this does
 
 ## Level 3 Heading
-- [This is a lnk] (www.youtube.com)
+- [This is a link](www.youtube.com)
